@@ -1,0 +1,5 @@
+[
+  { "style": "square", "borderRadius": "0" },
+  { "style": "rounded", "borderRadius": "8px" },
+  { "style": "circle", "borderRadius": "50%" }
+]
